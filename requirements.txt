@@ -1,0 +1,7 @@
+Pillow
+pyautogui
+openai
+tk
+openpyxl
+reportlab
+opencv-python
