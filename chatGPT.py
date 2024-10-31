@@ -505,7 +505,6 @@ def convert_img2txt(file_path) :
     valid_files = sorted([item for item in files_and_dirs if item != '.DS_Store'])
 
     # 最終メッセージで通知
-    global root
     root = tk.Tk()
     root.attributes('-topmost', True)
     root.withdraw()
