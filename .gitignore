@@ -1,1 +1,7 @@
 .history
+build
+log
+output
+dist
+appError.log
+chatGPT.spec
